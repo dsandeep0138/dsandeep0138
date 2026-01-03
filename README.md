@@ -23,6 +23,6 @@ I currently work as a Data Scientist at Microsoft. I did my Masters 🎓 at Texa
 
 - 🔭 I’m currently working on improving my data science skills.
 - 💬 Ask me about anything, I am happy to help.
-- 📫 How to reach me: sandeep0138@gmail.com | dsandeep97@tamu.edu | [LinkedIn](https://linkedin.com/in/dsandeep97) | [Portfolio](https://dsandeep0138.github.io/)
+- 📫 How to reach me: sandeep0138@gmail.com | [LinkedIn](https://linkedin.com/in/dsandeep97) | [Portfolio](https://dsandeep0138.github.io/)
 - 📝 Look at my [Resume](https://dsandeep0138.github.io/Resume.pdf) for more info.
 - ⚡ Fun fact: If the implementation is hard to explain, it's a bad idea.
